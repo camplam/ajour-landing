@@ -46,3 +46,5 @@ assets/           logos, images, image Open Graph
 - Aucune clé ni secret exposé dans le code (le site n'a pas de backend).
 - Métadonnées SEO, Open Graph, Twitter Card, favicon et icône iOS en place.
 - Images optimisées ; asset inutilisé retiré.
+
+- 
